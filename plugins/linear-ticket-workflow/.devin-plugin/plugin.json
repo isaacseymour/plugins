@@ -1,0 +1,9 @@
+{
+  "name": "linear-ticket-workflow",
+  "description": "Opt-in Devin rule: keep the Linear ticket a session works on assigned to you and in the right state (In Progress while working, In Review when it needs you).",
+  "author": {
+    "name": "Isaac Seymour",
+    "url": "https://github.com/isaacseymour"
+  },
+  "license": "MIT"
+}

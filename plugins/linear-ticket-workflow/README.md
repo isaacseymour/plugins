@@ -14,8 +14,8 @@ Scan your **In Review** column to find sessions waiting on you.
 Install it for yourself only, at **Personal** scope:
 
 - **Web app:** Customize → Plugins → Add plugin → From repository, enter
-  `isaacseymour/devin-plugins` with subdirectory `plugins/linear-ticket-workflow`, and
+  `isaacseymour/plugins` with subdirectory `plugins/linear-ticket-workflow`, and
   pick the Personal scope.
-- **CLI:** `devin plugins install isaacseymour/devin-plugins#plugins/linear-ticket-workflow`
+- **CLI:** `devin plugins install isaacseymour/plugins#plugins/linear-ticket-workflow`
 
 It applies to sessions started after you install it.

@@ -1,4 +1,4 @@
-# devin-plugins
+# plugins
 
 Personal [Devin](https://docs.devin.ai) plugins. Each lives in `plugins/<name>/` and is
 installed on its own, at Personal scope — see its README.

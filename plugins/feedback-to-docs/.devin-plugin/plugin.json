@@ -1,0 +1,9 @@
+{
+  "name": "feedback-to-docs",
+  "description": "Opt-in Devin rule: when you correct Devin's approach, in a session or in PR review, Devin writes the lesson into the repo's agent docs so the next agent starts with it.",
+  "author": {
+    "name": "Isaac Seymour",
+    "url": "https://github.com/isaacseymour"
+  },
+  "license": "MIT"
+}
